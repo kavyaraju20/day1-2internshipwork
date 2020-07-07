@@ -1,0 +1,114 @@
+.imageContainer{
+    
+    
+    
+    border-style: solid ;
+    border-color:white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:415px;
+    width:100%;
+    background-image: linear-gradient(to bottom, rgba(157, 14, 14, 0), #4f0707),url('https://cdn.zeplin.io/5ea9214f6ba7e327178817d0/assets/C809C815-37EA-48FB-B898-E85D21D6BCEF.png');
+    
+
+
+}
+body{
+    margin:auto;
+}
+
+#logo{
+    text-align: center;
+    color:red;
+    font-weight: bold;
+    font-size: 90px;
+    background-color: white;
+    height:150px;
+    width:150px;
+    margin:auto;
+    border-radius: 80px;
+    margin-top: 80px;
+    margin-bottom: 85px;
+    
+}
+.heading{
+    color:white;
+    font-weight: bold;
+    font-size:30px;
+    text-align:center;
+}
+.selectionHolder{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+.locationDropDown{
+    height:35px;
+    width:280px;
+
+}
+.restaurantSelector{
+    height:35px;
+    width:300px;
+}
+
+}
+.quickSearchContainer{
+    margin-left:150px;
+    margin-top:50px;
+}
+.quickHeading{
+    font-size: 25px;
+    text-align: center;
+    color: #192f60;
+    font-weight: bold;
+    line-height: 1.5;
+    margin-left:15px;
+    
+}
+.quickSubHeading{
+    font-size:20px;
+    text-align:center;
+    color:grey;
+    line-height:0;
+    margin-left:15px;
+}
+.tileContainer{
+    box-shadow: 0 3px 6px black;
+    margin-left: 50px;
+    margin-bottom: 30px;
+    width:350px;
+    height: 150px;
+    background-color: white;
+    display: inline-block;
+    
+}
+
+.tileComponent1{
+    width:50%;
+    float: left;
+}
+.tileComponent2{
+    width:50%;
+    float: left;
+    margin-top: 20px;
+}
+
+
+.componentHeading{
+    text-align: left;
+    color:#192f60;
+    font-size:20px;
+    font-weight: bold;
+    margin-top:5px;
+
+}
+
+.componentSubHeading{
+    text-align: left;
+    color:gray;
+    font-size:16px;
+    margin-top:18px;
+}
+
+    
